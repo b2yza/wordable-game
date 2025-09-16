@@ -1,1 +1,1 @@
-# worable-game
+# wordable-game
